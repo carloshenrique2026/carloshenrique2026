@@ -1,5 +1,6 @@
 # Carlos Henrique Programador 👋
 ## `Desenvolvedor Fullstack  ⚡`
+Desde Janeiro de 2021 que exploro a área de programação, neste período meu amor pelas possibilidades de criação e de soluções que os softwares podem proporcionar são infinitas, sem precisar reinventar a roda, graças as linguagens de programação e as tecnologias.
 ---
 
 <img 
