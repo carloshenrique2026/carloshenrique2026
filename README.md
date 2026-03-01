@@ -35,10 +35,19 @@ Desde Janeiro de 2021 que exploro a área de programação, neste período meu a
   style="padding-right: 10px;"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg"
   />
+    <img 
+  align="left"
+  alt="html"
+  title="html"
+  width="31px"
+  style="padding-right: 10px;"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+  />
           
 
           
 
+          
  
         
                       
